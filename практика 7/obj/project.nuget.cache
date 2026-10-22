@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H5kimtP7B18=",
+  "success": true,
+  "projectFilePath": "D:\\ТРПО\\практика 7\\практика 7\\практика 7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veron\\.nuget\\packages\\materialdesigncolors\\5.4.0\\materialdesigncolors.5.4.0.nupkg.sha512",
+    "C:\\Users\\veron\\.nuget\\packages\\materialdesignthemes\\5.4.0\\materialdesignthemes.5.4.0.nupkg.sha512",
+    "C:\\Users\\veron\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.142\\microsoft.xaml.behaviors.wpf.1.1.142.nupkg.sha512"
+  ],
+  "logs": []
+}

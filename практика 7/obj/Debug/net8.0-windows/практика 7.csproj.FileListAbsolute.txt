@@ -1,0 +1,29 @@
+D:\ТРПО\практика 7\практика 7\bin\Debug\net8.0-windows\практика 7.exe
+D:\ТРПО\практика 7\практика 7\bin\Debug\net8.0-windows\практика 7.deps.json
+D:\ТРПО\практика 7\практика 7\bin\Debug\net8.0-windows\практика 7.runtimeconfig.json
+D:\ТРПО\практика 7\практика 7\bin\Debug\net8.0-windows\практика 7.dll
+D:\ТРПО\практика 7\практика 7\bin\Debug\net8.0-windows\практика 7.pdb
+D:\ТРПО\практика 7\практика 7\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\ТРПО\практика 7\практика 7\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\ТРПО\практика 7\практика 7\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\практика 7.csproj.AssemblyReference.cache
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\Pages\GetPages.g.cs
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\App.g.cs
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\практика 7_Content.g.cs
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\практика 7_MarkupCompile.cache
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\практика 7_MarkupCompile.lref
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\MainWindow.baml
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\Pages\GetPages.baml
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\практика 7.g.resources
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\практика 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\практика 7.AssemblyInfoInputs.cache
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\практика 7.AssemblyInfo.cs
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\практика 7.csproj.CoreCompileInputs.cache
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\практика 7.csproj.Up2Date
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\практика 7.dll
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\refint\практика 7.dll
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\практика 7.pdb
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\практика 7.genruntimeconfig.cache
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\ref\практика 7.dll
+D:\ТРПО\практика 7\практика 7\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
